@@ -170,6 +170,11 @@ public class DtpProperties {
      */
     private List<TpExecutorProps> rabbitmqTp;
 
+    /**
+     * elasticjob thread pools.
+     */
+    private List<TpExecutorProps> elasticjobTp;
+
     @Data
     public static class Nacos {
 

@@ -24,6 +24,7 @@
         <module>adapter-tars</module>
         <module>adapter-sofa</module>
         <module>adapter-rabbitmq</module>
+        <module>adapter-elasticjob</module>
     </modules>
 
     <dependencies>
